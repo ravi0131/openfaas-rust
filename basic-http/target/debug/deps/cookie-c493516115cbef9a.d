@@ -1,0 +1,12 @@
+/Users/ravikumar/Code/openfaas-rust/basic-http/target/debug/deps/cookie-c493516115cbef9a.rmeta: /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/lib.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/builder.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/parse.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/jar.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/delta.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/same_site.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/expiration.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/prefix.rs
+
+/Users/ravikumar/Code/openfaas-rust/basic-http/target/debug/deps/cookie-c493516115cbef9a.d: /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/lib.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/builder.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/parse.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/jar.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/delta.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/same_site.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/expiration.rs /Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/prefix.rs
+
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/lib.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/builder.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/parse.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/jar.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/delta.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/same_site.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/expiration.rs:
+/Users/ravikumar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.0/src/prefix.rs:
